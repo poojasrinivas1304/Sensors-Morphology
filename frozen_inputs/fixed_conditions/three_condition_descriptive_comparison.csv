@@ -1,0 +1,4 @@
+condition,n_sensors,frequency_Hz,mean_specimen_A80_pct_points,SD_specimen_A80_pct_points,median_specimen_A80_pct_points,Q1_specimen_A80_pct_points,Q3_specimen_A80_pct_points,median_late_vs_early_A80_change_pct,median_resistance_evolution_pct_points,median_late_A80_CV_pct
+Low displacement,5,1.402,5.512,2.198,6.782,3.333,7.254,-15.651,-8.114,16.986
+Medium displacement,5,0.833,5.225,1.621,5.157,4.156,5.484,-0.195,-6.521,13.093
+High displacement,5,0.584,5.521,3.401,3.270,3.196,7.399,-20.542,-8.907,15.063

@@ -1,0 +1,81 @@
+{
+  "metrics": [
+    {
+      "raw_label": "Grid80_concave",
+      "sample": 35,
+      "condition": "Grid 80%",
+      "orientation": "Conductive-outward",
+      "valid_observations": 12000,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 24,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 15.2499261949918,
+      "early_cycle_centre_pct": -0.6415291214074299,
+      "late_cycle_centre_pct": -12.880226873391313,
+      "resistance_evolution_pp": -12.238697751983883,
+      "late_A80_CV_pct": 9.690621245331393
+    },
+    {
+      "raw_label": "Rect80_concave",
+      "sample": 34,
+      "condition": "Rectilinear 80%",
+      "orientation": "Conductive-outward",
+      "valid_observations": 12000,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 24,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 9.931975831961758,
+      "early_cycle_centre_pct": -7.00598182005934,
+      "late_cycle_centre_pct": -16.358305658304648,
+      "resistance_evolution_pp": -9.352323838245308,
+      "late_A80_CV_pct": 8.61913879383118
+    },
+    {
+      "raw_label": "Rect100_concave",
+      "sample": 36,
+      "condition": "Solid 100%",
+      "orientation": "Conductive-outward",
+      "valid_observations": 12000,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 24,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 3.1926571612403314,
+      "early_cycle_centre_pct": 0.39172500626070816,
+      "late_cycle_centre_pct": -7.248764801208086,
+      "resistance_evolution_pp": -7.640489807468795,
+      "late_A80_CV_pct": 18.67090029289268
+    }
+  ],
+  "descriptive_comparisons": [
+    {
+      "sample": 35,
+      "condition": "Grid 80%",
+      "outward_minus_inward_mean_late_A80_pp": 9.622251792718899,
+      "outward_to_inward_mean_A80_ratio": 2.709809613156132,
+      "outward_minus_inward_mean_resistance_evolution_pp": 1.149203963950109,
+      "outward_minus_inward_mean_late_CV_pp": -6.175182691494287
+    },
+    {
+      "sample": 34,
+      "condition": "Rectilinear 80%",
+      "outward_minus_inward_mean_late_A80_pp": 2.1083228921387347,
+      "outward_to_inward_mean_A80_ratio": 1.26948062603943,
+      "outward_minus_inward_mean_resistance_evolution_pp": 5.0764463048055255,
+      "outward_minus_inward_mean_late_CV_pp": -13.592788427898256
+    },
+    {
+      "sample": 36,
+      "condition": "Solid 100%",
+      "outward_minus_inward_mean_late_A80_pp": -3.200464616059669,
+      "outward_to_inward_mean_A80_ratio": 0.49938938635213714,
+      "outward_minus_inward_mean_resistance_evolution_pp": 5.977746706064538,
+      "outward_minus_inward_mean_late_CV_pp": 7.534543412226011
+    }
+  ]
+}

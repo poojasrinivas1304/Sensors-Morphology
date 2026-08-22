@@ -1,0 +1,194 @@
+{
+  "metrics": [
+    {
+      "specimen": "Grid80_R1",
+      "sample": 31,
+      "condition": "Grid 80%",
+      "valid_observations": 11999,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 23,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 2.819749094520475,
+      "early_cycle_centre_pct": -14.900031739211514,
+      "late_cycle_centre_pct": -25.850984316599806,
+      "resistance_evolution_pp": -10.950952577388293,
+      "late_A80_CV_pct": 14.124567834462248
+    },
+    {
+      "specimen": "Grid80_R2",
+      "sample": 32,
+      "condition": "Grid 80%",
+      "valid_observations": 12000,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 24,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 5.145815397231721,
+      "early_cycle_centre_pct": -0.4084571546606373,
+      "late_cycle_centre_pct": -10.701999808140263,
+      "resistance_evolution_pp": -10.293542653479626,
+      "late_A80_CV_pct": 20.18990403803535
+    },
+    {
+      "specimen": "Grid80_R3",
+      "sample": 33,
+      "condition": "Grid 80%",
+      "valid_observations": 12000,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 24,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 8.917458715066514,
+      "early_cycle_centre_pct": -0.8451814866057061,
+      "late_cycle_centre_pct": -19.76439140353977,
+      "resistance_evolution_pp": -18.91920991693406,
+      "late_A80_CV_pct": 13.282939937979442
+    },
+    {
+      "specimen": "Rect80_R1",
+      "sample": 28,
+      "condition": "Rectilinear 80%",
+      "valid_observations": 12000,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 24,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 13.32623650460383,
+      "early_cycle_centre_pct": -7.0431780426565656,
+      "late_cycle_centre_pct": -17.21765015197756,
+      "resistance_evolution_pp": -10.174472109320993,
+      "late_A80_CV_pct": 25.165811868022757
+    },
+    {
+      "specimen": "Rect80_R2",
+      "sample": 29,
+      "condition": "Rectilinear 80%",
+      "valid_observations": 11999,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 23,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 7.330392988408331,
+      "early_cycle_centre_pct": -12.120872393300957,
+      "late_cycle_centre_pct": -26.472472804514332,
+      "resistance_evolution_pp": -14.351600411213376,
+      "late_A80_CV_pct": 23.491924596443955
+    },
+    {
+      "specimen": "Rect80_R3",
+      "sample": 30,
+      "condition": "Rectilinear 80%",
+      "valid_observations": 11999,
+      "valid_cycles_total": 500,
+      "valid_cycles_early": 50,
+      "valid_cycles_late": 50,
+      "min_points_per_cycle": 23,
+      "max_points_per_cycle": 24,
+      "late_A80_pct": 2.8143293264569067,
+      "early_cycle_centre_pct": -12.460455248939788,
+      "late_cycle_centre_pct": -31.220693157557918,
+      "resistance_evolution_pp": -18.76023790861813,
+      "late_A80_CV_pct": 17.9780452007216
+    }
+  ],
+  "historical_solid": [
+    {
+      "specimen": "Sample 7",
+      "sample": 7,
+      "condition": "Historical solid 100%",
+      "late_A80_pct": 5.5482293051,
+      "resistance_evolution_pp": -15.8690537866,
+      "late_A80_CV_pct": 10.9142773937
+    },
+    {
+      "specimen": "Sample 8",
+      "sample": 8,
+      "condition": "Historical solid 100%",
+      "late_A80_pct": 7.7046080572,
+      "resistance_evolution_pp": -10.3598896878,
+      "late_A80_CV_pct": 13.0848223135
+    },
+    {
+      "specimen": "Sample 9",
+      "sample": 9,
+      "condition": "Historical solid 100%",
+      "late_A80_pct": 5.9265279696,
+      "resistance_evolution_pp": -14.6257660662,
+      "late_A80_CV_pct": 9.4099709348
+    }
+  ],
+  "group_summary": [
+    {
+      "condition": "Grid 80%",
+      "n": 3,
+      "late_A80_pct": {
+        "mean": 5.627674402272903,
+        "sd": 3.077280736247408,
+        "min": 2.819749094520475,
+        "max": 8.917458715066514
+      },
+      "resistance_evolution_pp": {
+        "mean": -13.387901715933992,
+        "sd": 4.801517964441178,
+        "min": -18.91920991693406,
+        "max": -10.293542653479626
+      },
+      "late_A80_CV_pct": {
+        "mean": 15.86580393682568,
+        "sd": 3.768350520187265,
+        "min": 13.282939937979442,
+        "max": 20.18990403803535
+      }
+    },
+    {
+      "condition": "Rectilinear 80%",
+      "n": 3,
+      "late_A80_pct": {
+        "mean": 7.823652939823023,
+        "sd": 5.27328428640505,
+        "min": 2.8143293264569067,
+        "max": 13.32623650460383
+      },
+      "resistance_evolution_pp": {
+        "mean": -14.428770143050833,
+        "sd": 4.293403075152507,
+        "min": -18.76023790861813,
+        "max": -10.174472109320993
+      },
+      "late_A80_CV_pct": {
+        "mean": 22.211927221729436,
+        "sd": 3.76095631127888,
+        "min": 17.9780452007216,
+        "max": 25.165811868022757
+      }
+    },
+    {
+      "condition": "Historical solid 100%",
+      "n": 3,
+      "late_A80_pct": {
+        "mean": 6.3931217773,
+        "sd": 1.1514228878501054,
+        "min": 5.5482293051,
+        "max": 7.7046080572
+      },
+      "resistance_evolution_pp": {
+        "mean": -13.618236513533333,
+        "sd": 2.889473847692556,
+        "min": -15.8690537866,
+        "max": -10.3598896878
+      },
+      "late_A80_CV_pct": {
+        "mean": 11.136356880666668,
+        "sd": 1.8474638393705722,
+        "min": 9.4099709348,
+        "max": 13.0848223135
+      }
+    }
+  ]
+}

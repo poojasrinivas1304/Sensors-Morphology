@@ -1,0 +1,8 @@
+sample,electrical_file,utm_file,status,analysis_role
+57.0,progressive1.csv,progressive1_1.csv,Included,Paired primary analysis
+58.0,progressive2.csv,progressive2_2.csv,Included,Paired primary analysis
+59.0,progressive3.csv,Not available,Electrical only,Excluded from paired primary analysis
+60.0,progressive4.csv,progressive4_6.csv,Included,Paired primary analysis
+61.0,progressive5.csv,progressive5_7.csv,Included,Paired primary analysis
+62.0,progressive6.csv,progressive6_8.csv,Included,Additional independent replacement sensor; paired primary analysis
+,Not applicable,progressive1_2.csv,Excluded duplicate,Byte-identical duplicate of progressive2_2.csv; not a specimen

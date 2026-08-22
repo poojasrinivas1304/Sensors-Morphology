@@ -250,5 +250,5 @@ and Technology.
 
 Analysis code is released under the MIT Licence. Data are released under the
 Creative Commons Attribution 4.0 International licence unless otherwise
-specified. Add the corresponding licence files before making the repository
-public.
+specified. The corresponding licence files are included in the repository
+root.

@@ -1,0 +1,3 @@
+source_file,original_sample,status,reason
+progressive2.csv,58,Excluded,Incorrect specimen placement during testing
+progressive3.csv,59,Included as Repeat 2,Complete electrical record; independent sensor

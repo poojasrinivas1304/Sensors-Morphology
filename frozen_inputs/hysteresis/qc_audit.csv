@@ -1,0 +1,6 @@
+sample,esp_file,utm_file,utm_duration_s,esp_duration_s,R0_ohm,valid_resistance_rows,missing_resistance_rows,adc_3900_plus,complete_upper_plateaus,last_low_plateau_end_s
+1,hysteresis1-esp.csv,hysteresis1_1.csv,844.484,883.954,3637.11499,17641,1,1,5,833.392
+2,hysteresis2_esp.csv,hysteresis2_1.csv,822.404,854.404,3626.447975,17050,1,1,5,822.404
+3,hysteresis3_esp.csv,hysteresis3_1.csv,821.999,843.904,4321.827411,16840,1,1,5,821.999
+4,hysteresis4_esp.csv,hysteresis4_2.csv,819.734,860.154,6219.902555,17165,1,1,5,819.734
+5,hysteresis5_esp.csv,hysteresis5_3.csv,837.989,840.004,4518.050987,16762,1,1,5,833.43
