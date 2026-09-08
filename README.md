@@ -1,9 +1,8 @@
-# Architecture and Morphology Optimization of 3D-Printed Conductive-TPU Piezoresistive Sensors
+# Sequential, Replication-Aware Screening of 3D-Printed Conductive TPU Bending Sensors Toward Textile Integration
 
 > Data, analysis code and reproducibility records accompanying the manuscript
-> *Sequential architecture and infill-morphology screening and validation of
-> 3D-printed conductive-TPU piezoresistive sensors for textile-integrated
-> bending sensing*.
+> *Sequential, replication-aware screening of 3D-printed conductive TPU
+> bending sensors toward textile integration*.
 
 ---
 
@@ -54,7 +53,7 @@ of nonconductive backing TPU layers.
 - **CL2-BL1** was selected as the baseline architecture because it combined a
   moderate late-stage response with the lowest mean within-sensor response
   variability and a nominal thickness of 0.60 mm.
-- **Grid 80%** was selected for subsequent validation because the predefined
+- **Grid 80%** was selected for subsequent validation because the documented
   engineering hierarchy prioritized repeatability over maximum response. The
   selection is not presented as statistical or universal superiority.
 - The replicated grid 80% condition had a mean late-stage central 80%
@@ -144,12 +143,10 @@ and leave-one-sensor-out sensitivity results.
 
 ## Setup
 
-### 1. Clone the repository
+### 1. Download and unpack the repository archive
 
-```bash
-git clone https://github.com/poojasrinivas1304/Sensors-Morphology.git
-cd Sensors-Morphology
-```
+Download the archived deposit, unpack it, and change into the extracted
+repository directory.
 
 ### 2. Create a Python environment
 
@@ -176,7 +173,9 @@ pip install -r requirements.txt
 
 The Phase 1 factorial analysis uses one row per independently fabricated
 sensor and applies ordinary least squares with HC3 heteroscedasticity-consistent
-standard errors. Run:
+standard errors. Two-sided 95% confidence intervals use a Student-t critical
+value with 12 residual degrees of freedom. The planned contrasts are
+unadjusted for multiple comparisons. Run:
 
 ```bash
 python scripts/phase1_factorial_analysis.py
@@ -204,8 +203,24 @@ should be reported as a sensitivity analysis.
 - One progressive-displacement record with documented incorrect specimen
   placement was excluded before the primary five-sensor analysis; the
   inclusion audit is retained in `frozen_inputs/progressive/`.
-- Cycles failing the prespecified observation-completeness rule remain in the
+- Cycles failing the documented observation-completeness rule remain in the
   audit but are excluded from primary cycle-level summaries.
+
+### Data coverage and known omissions
+
+- Original timestamped pre-segmentation files and raw ADC streams were not
+  retained.
+- Mechanical force/displacement records were not retained for the original
+  Phase 1--3 experiments.
+- Electrical records are provided for all six progressive-displacement
+  specimens and retained UTM exports for five; the primary analysis uses the
+  five records meeting the documented specimen-placement criterion.
+- Electrical records are provided for all 15 fixed-condition sensors. Paired
+  UTM exports are available for the low- and high-displacement cohorts but
+  were unavailable for the medium-displacement cohort.
+- Paired ESP32 and UTM exports are provided for all five quasi-static
+  hysteresis sensors, and the retained durability workbook contains all five
+  5000-cycle resistance records.
 
 ---
 
@@ -217,9 +232,8 @@ publication.
 
 ```bibtex
 @article{gurram_conductive_tpu_sensors,
-  title   = {Sequential architecture and infill-morphology screening and
-             validation of 3D-printed conductive-TPU piezoresistive sensors
-             for textile-integrated bending sensing},
+  title   = {Sequential, replication-aware screening of 3D-printed conductive
+             TPU bending sensors toward textile integration},
   author  = {Gurram, Pooja and Elgendi, Mohamed},
   journal = {To be updated},
   year    = {2026},
@@ -244,3 +258,11 @@ and Technology.
 - **Mohamed Elgendi** - supervision, conceptualization, interpretation and
   critical manuscript revision
 
+---
+
+## Licence
+
+Analysis code is released under the MIT Licence. Data are released under the
+Creative Commons Attribution 4.0 International licence unless otherwise
+specified. The corresponding licence files are included in the repository
+root.

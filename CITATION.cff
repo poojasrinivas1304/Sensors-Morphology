@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite this archived deposit and the associated manuscript."
+title: "Data and code for: Sequential, replication-aware screening of 3D-printed conductive TPU bending sensors toward textile integration"
+type: dataset
+authors:
+  - family-names: Gurram
+    given-names: Pooja
+  - family-names: Elgendi
+    given-names: Mohamed
+year: 2026
+license: CC-BY-4.0
+keywords:
+  - conductive TPU
+  - 3D printing
+  - piezoresistive sensor
+  - textile integration
+  - reproducibility
