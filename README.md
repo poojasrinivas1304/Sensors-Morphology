@@ -1,8 +1,8 @@
-# Sequential, Replication-Aware Screening of 3D-Printed Conductive TPU Bending Sensors Toward Textile Integration
+# Replication-Aware Design Selection and Validation of 3D-Printed Conductive TPU Bending Sensors
 
 > Data, analysis code and reproducibility records accompanying the manuscript
-> *Sequential, replication-aware screening of 3D-printed conductive TPU
-> bending sensors toward textile integration*.
+> *Replication-aware design selection and validation of 3D-printed conductive
+> TPU bending sensors*.
 
 ---
 
@@ -232,8 +232,8 @@ publication.
 
 ```bibtex
 @article{gurram_conductive_tpu_sensors,
-  title   = {Sequential, replication-aware screening of 3D-printed conductive
-             TPU bending sensors toward textile integration},
+  title   = {Replication-aware design selection and validation of 3D-printed
+             conductive TPU bending sensors},
   author  = {Gurram, Pooja and Elgendi, Mohamed},
   journal = {To be updated},
   year    = {2026},

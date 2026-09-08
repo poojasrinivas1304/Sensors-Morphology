@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data or scripts, please cite this archived deposit and the associated manuscript."
-title: "Data and code for: Sequential, replication-aware screening of 3D-printed conductive TPU bending sensors toward textile integration"
+title: "Data and code for: Replication-aware design selection and validation of 3D-printed conductive TPU bending sensors"
 type: dataset
 authors:
   - family-names: Gurram
