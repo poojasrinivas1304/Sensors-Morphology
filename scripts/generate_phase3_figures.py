@@ -138,9 +138,9 @@ def make_metric_figure():
     outward = {x["condition"]: x for x in outward_json["metrics"]}
 
     panels = [
-        ("late_A80_pct", "(a) Late-stage cyclic amplitude", r"Late $A_{80}$ (%)"),
+        ("late_A80_pct", "(a) Late-stage central 80% excursion", r"Late $A_{80}$ (percentage points)"),
         ("resistance_evolution_pp", "(b) Resistance evolution", "Early-to-late evolution\n(percentage points)"),
-        ("late_A80_CV_pct", "(c) Late-stage amplitude variability", r"Late $A_{80}$ CV (%)"),
+        ("late_A80_CV_pct", "(c) Late-stage excursion variability", r"Late $A_{80}$ CV (%)"),
     ]
     x = np.arange(1, 4)
     jitter = np.array([-0.13, 0.0, 0.13])
@@ -185,7 +185,7 @@ def make_metric_figure():
             )
         ax.set_title(title, fontsize=11.5, fontweight="bold")
         ax.set_ylabel(ylabel, fontweight="bold")
-        ax.set_xticks(x, ["Rect.\n80%", "Grid\n80%", "Solid\n100%"])
+        ax.set_xticks(x, ["Rect.\n80%", "Grid\n80%", "Solid 100%\n(historical inward)"])
         ax.set_xlim(0.55, 3.55)
 
     fig.legend(

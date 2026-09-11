@@ -38,8 +38,8 @@ CL_MARKERS = {
 PANELS = [
     (
         "Late_A80_pct",
-        "(a) Late-stage cyclic amplitude",
-        r"Late $A_{80}$ (%)",
+        "(a) Late-stage central 80% excursion",
+        r"Late $A_{80}$ (percentage points)",
     ),
     (
         "Resistance_evolution_pp",
@@ -48,7 +48,7 @@ PANELS = [
     ),
     (
         "Late_A80_CV_pct",
-        "(c) Late-stage amplitude variability",
+        "(c) Late-stage excursion variability",
         r"Late $A_{80}$ CV (%)",
     ),
 ]

@@ -55,17 +55,23 @@ of nonconductive backing TPU layers.
   variability and a nominal thickness of 0.60 mm.
 - **Grid 80%** was selected for subsequent validation because the documented
   engineering hierarchy prioritized repeatability over maximum response. The
-  selection is not presented as statistical or universal superiority.
+  decision was made between the two concurrently replicated finalists and is
+  not presented as statistical or universal superiority, including over the
+  historical solid specimens.
 - The replicated grid 80% condition had a mean late-stage central 80%
   excursion of **5.63 ± 3.08 percentage points** and a mean within-sensor
   excursion coefficient of variation of **15.87 ± 3.77%**.
 - Quasi-static electrical hysteresis, expressed as the mean absolute
   loading-unloading difference, was **2.38 ± 0.92 percentage points** across
   five independently fabricated sensors.
+- Independent low-, medium- and high-displacement cohorts (five sensors per
+  cohort) did not show a monotonic increase in response; mean central 80%
+  excursions were **5.51, 5.22 and 5.52 percentage points**, respectively.
 - All five durability sensors retained periodic electrical responses through
-  5000 cycles. Mean response retention was **54.2 ± 17.3%**, indicating
-  continued responsiveness together with substantial conditioning and
-  attenuation.
+  5000 cycles. Mean response retention was **54.2 ± 17.3%** (individual range,
+  **25.5-66.7%**), indicating continued responsiveness together with
+  substantial conditioning and attenuation rather than stable sensitivity or
+  an established service lifetime.
 - Six independently fabricated fabric-integrated sensors provided feasibility
   evidence of bending responsiveness in both tested orientations.
 
@@ -80,6 +86,7 @@ programmes covaried displacement range and cycle frequency.
 ```text
 conductive-tpu-sensor-optimization/
 ├── README.md
+├── REPRODUCIBILITY_MAP.md
 ├── LICENSE
 ├── requirements.txt
 ├── audit/
@@ -104,6 +111,8 @@ conductive-tpu-sensor-optimization/
     ├── generate_phase1_metric_figure.py
     ├── generate_phase2_metric_figure.py
     ├── generate_phase3_figures.py
+    ├── cycle_window_sensitivity.py
+    ├── plot_fabric_orientation_metrics.py
     └── calculate_fabric_metrics.py
 ```
 
@@ -185,9 +194,18 @@ The remaining scripts reproduce the corresponding specimen-level calculations
 and manuscript figures. Scripts use repository-relative input and output paths;
 generated results are written under `generated/`.
 
+`REPRODUCIBILITY_MAP.md` links each manuscript figure and table to its retained
+inputs and script, and explicitly identifies layout scripts or source records
+that were not retained.
+
 No smoothing, gap filling or silent specimen substitution should be introduced
 when reproducing the quantitative analysis. Any alternative processing rule
 should be reported as a sensitivity analysis.
+
+`scripts/cycle_window_sensitivity.py` reproduces the onset/period sensitivity
+analysis for the 15 original 500-cycle records with retained timestamps. It
+does not reconstruct timestamps for Samples 1--27. The frozen output is
+`frozen_inputs/phase1_3/cycle_window_sensitivity.csv`.
 
 ---
 
@@ -208,8 +226,9 @@ should be reported as a sensitivity analysis.
 
 ### Data coverage and known omissions
 
-- Original timestamped pre-segmentation files and raw ADC streams were not
-  retained.
+- Original timestamped pre-segmentation files were not retained for Samples
+  1--27. Timestamped records are retained for Samples 28--36 and all six
+  fabric-integrated records. Raw ADC streams were not retained.
 - Mechanical force/displacement records were not retained for the original
   Phase 1--3 experiments.
 - Electrical records are provided for all six progressive-displacement
@@ -221,6 +240,13 @@ should be reported as a sensitivity analysis.
 - Paired ESP32 and UTM exports are provided for all five quasi-static
   hysteresis sensors, and the retained durability workbook contains all five
   5000-cycle resistance records.
+- The exact ESP32 variant, acquisition firmware, fixed-resistor tolerance and
+  any firmware-level voltage correction were not retained. No known-resistor
+  or calibrated-multimeter comparison is available; absolute resistance error
+  is therefore unquantified.
+- Original PrusaSlicer project files and G-code were not retained. Exact
+  perimeter, extrusion-width, flow, road-angle sequence, overlap, cooling and
+  retraction settings are unavailable and have not been reconstructed.
 
 ---
 

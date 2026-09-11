@@ -43,7 +43,7 @@ PATTERN_MARKERS = {
 MINIMUM_OBSERVATIONS_PER_CYCLE = 19
 
 PANELS = [
-    ("Late_A80_pct", "(a) Late-stage central 80% excursion", r"Late $A_{80}$ (%)"),
+    ("Late_A80_pct", "(a) Late-stage central 80% excursion", r"Late $A_{80}$ (percentage points)"),
     (
         "Resistance_evolution_pp",
         "(b) Resistance evolution",
@@ -51,7 +51,7 @@ PANELS = [
     ),
     (
         "Late_A80_CV_pct",
-        "(c) Late-stage within-sensor variability",
+        "(c) Late-stage within-sensor excursion variability",
         r"Late $A_{80}$ CV (%)",
     ),
 ]

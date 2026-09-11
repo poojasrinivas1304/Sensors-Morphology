@@ -1,0 +1,136 @@
+stage,record,source_file,period_s,onset_shift_s,eligible_late_windows,median_late_A80_percentage_points,late_A80_CV_percent
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.19,-0.1,50,2.7674904435283434,14.252706764129751
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.19,0.0,50,2.823731346832396,14.048266000866548
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.19,0.1,50,2.8806182204175457,14.448731029847785
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.2,-0.1,49,2.8064362548220636,13.800951802607536
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.2,0.0,50,2.812364649201884,13.873443853909082
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.2,0.1,49,2.7587690687296096,14.802073769862181
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.21,-0.1,48,2.7808029945060007,14.730960927585492
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.21,0.0,48,2.7891273192421213,14.975350455962953
+Phase3 inward,Grid80_R1,Phase 3 master sheet.xlsx,1.21,0.1,48,2.7979991604837746,13.613736973766287
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.19,-0.1,50,5.094002105148595,19.306193260811707
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.19,0.0,50,5.165612724512139,20.26664075023643
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.19,0.1,50,5.067927041757596,20.54543939417507
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.2,-0.1,49,5.149046115646361,19.865156838576763
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.2,0.0,50,5.145815397231721,20.18990403803535
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.2,0.1,49,5.1885624098054155,18.602428724054164
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.21,-0.1,48,5.160690304871284,17.339616371397373
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.21,0.0,48,5.12908775398425,16.910437174852312
+Phase3 inward,Grid80_R2,Phase 3 master sheet.xlsx,1.21,0.1,48,5.165612724512139,17.312429226893876
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.19,-0.1,50,9.054931797754836,11.95737206313874
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.19,0.0,50,9.032910651535818,11.108655250121329
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.19,0.1,50,9.032910651535818,12.578281467875478
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.2,-0.1,49,8.9811971852039,11.469763430993078
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.2,0.0,50,8.917458715066514,13.282939937979442
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.2,0.1,49,9.095243097123875,12.484066674379413
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.21,-0.1,48,9.004401819182622,12.454043754176993
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.21,0.0,48,9.045482099591972,12.909459107142103
+Phase3 inward,Grid80_R3,Phase 3 master sheet.xlsx,1.21,0.1,48,9.047848012515825,12.856614593877001
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.19,-0.1,50,14.170314260146114,26.525155014038063
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.19,0.0,50,13.68230263618166,25.384224094475197
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.19,0.1,50,13.447788615779858,26.562146869819284
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.2,-0.1,49,13.56577661704352,28.681086234500594
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.2,0.0,50,13.32623650460383,25.165811868022757
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.2,0.1,49,13.582197468745505,24.2436773822823
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.21,-0.1,48,13.885813060272394,27.27540233638029
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.21,0.0,48,13.24133234912678,24.304505323683678
+Phase3 inward,Rect80_R1,Phase 3 master sheet.xlsx,1.21,0.1,48,13.896457384175687,25.27260331391072
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.19,-0.1,50,7.202761656040375,25.8495366244962
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.19,0.0,50,7.085664530710904,24.22886015599566
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.19,0.1,50,7.178485179432725,23.67264086504095
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.2,-0.1,49,7.371387143763595,23.29597881726051
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.2,0.0,50,7.29052126195141,22.61872545265579
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.2,0.1,49,7.349795732801482,22.167877891436508
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.21,-0.1,48,7.3982858768998465,21.907705349939288
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.21,0.0,48,7.3982858768998465,22.14501197658137
+Phase3 inward,Rect80_R2,Phase 3 master sheet.xlsx,1.21,0.1,48,7.37707793164196,21.24979402954023
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.19,-0.1,50,2.857527592844651,15.981294054721515
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.19,0.0,50,2.8182262616725957,16.461599897268442
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.19,0.1,50,2.8182262616725957,17.956596518201245
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.2,-0.1,49,2.814492761969319,17.66137716206844
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.2,0.0,50,2.802828546929959,18.05799824545997
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.2,0.1,49,2.848578234995216,15.958618498316653
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.21,-0.1,48,2.8941146224232934,17.390713674653057
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.21,0.0,48,2.8362969701466554,16.952129571320054
+Phase3 inward,Rect80_R3,Phase 3 master sheet.xlsx,1.21,0.1,48,2.9121561089414385,17.23264216554214
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,15.18700340471283,10.149880645838508
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,15.302650660660872,10.007173380554484
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,15.135902578119838,10.36998622044487
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,15.126671045541634,9.599416708082487
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,15.2499261949918,9.690621245331393
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,15.235018316937857,7.250051135983285
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,15.290479508540656,6.891189301429524
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,15.290479508540656,6.8222408119185145
+Phase3 outward,Grid80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,15.290479508540656,6.8222408119185145
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,9.908878449175436,8.748207630512502
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,9.89116545320936,8.420073202554885
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,9.9197396234554,8.24751418757283
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,9.873225514087903,8.654074562542972
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,9.931975831961758,8.61913879383118
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,9.873225514087903,8.52836929463816
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,9.87113053386689,9.082594732425084
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,9.877509600838728,8.96025323895141
+Phase3 outward,Rect80_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,9.835350199069339,8.315696269777487
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,3.213200408787589,18.35154383089365
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,3.2565356717954432,16.825959659284653
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,3.212587927042535,17.2629666382879
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,3.2462639093854646,19.83713632886351
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,3.1926571612403314,18.67090029289268
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,3.1706661214416894,14.769894901047302
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,3.2248989498150937,16.459618355355627
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,3.1400932447888708,16.142391155154343
+Phase3 outward,Rect100_concave,Concave_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,3.227667020696725,15.672072341549407
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,4.637095593745638,21.89262607195634
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,4.731844827359692,22.645532477219543
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,4.752659959979944,21.72546066512726
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,4.716403380003632,21.70100266766528
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,4.621695706570033,23.432853210529526
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,4.756607463584812,19.547280769469197
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,4.76705545930511,17.73615414527626
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,4.764697189139296,18.87448148845548
+Fabric,Grid80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,4.760812658896588,20.16021663133213
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,5.54882036087608,12.11571815288348
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,5.575337573233366,14.37609608190012
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,5.670102895107628,12.775037529761413
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,5.675271373257411,11.993305815354177
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,5.622124480071509,10.87676801045513
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,5.6235721078280285,11.231736941521296
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,5.63118870101033,10.592767829733152
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,5.636742974943968,10.757395901581711
+Fabric,Grid80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,5.660071700448996,10.962525895691993
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,4.154124070120744,13.868358914826743
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,4.086555405090223,15.087884690271373
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,3.9846053005482798,18.110938007319675
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,4.0639157900866,16.843940412491136
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,4.0993029189011345,16.771395079500305
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,3.972334479221761,15.506903375286251
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,3.866906679341703,17.021661008378125
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,4.022713777906777,15.47828668281795
+Fabric,Rect80_standard,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,3.97483803883053,15.182233456242674
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,6.935717067388818,13.423127680583034
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,6.935717067388818,13.682423119816361
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,6.809946927372018,14.18283156173904
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,6.87169526243577,14.71306919323758
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,6.948320983486482,14.277579094308239
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,6.965872466501621,10.603362115060786
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,6.948025557295503,10.666732322637777
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,6.948025557295503,10.774610809462487
+Fabric,Rect80_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,6.9316167244361555,10.993134059022903
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,4.805138212836605,18.609321269755775
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,4.740166947325335,19.222039438284078
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,4.784800084977395,18.66601854765636
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,4.869036288983235,18.271778206926218
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,4.8094130722122195,17.933020835966573
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,4.869811299208312,17.194867344640137
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,4.880507009075419,17.51042607992462
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,4.902423035534982,17.298189581222736
+Fabric,Rect100_convex,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,4.88322114099536,17.396230834235933
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,-0.1,50,3.3818350431233366,73.74070256075507
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.0,50,3.3431107664936413,71.76456911250152
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.19,0.1,50,3.2839804539858033,72.0246606545373
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,-0.1,49,3.436355633728212,73.70298845738846
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.0,50,3.3981383284997335,73.03565813359153
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.2,0.1,49,3.419575789046391,71.7097462425546
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,-0.1,48,3.6157016632458134,74.13477658317288
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.0,48,3.6046227226645495,74.22331737805203
+Fabric,Rect100_concave,Fabric_sensor_tests_Origin_simple.xlsx,1.21,0.1,48,3.4247190991543626,73.52715378039312
