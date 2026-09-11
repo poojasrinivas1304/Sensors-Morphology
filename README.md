@@ -4,6 +4,9 @@
 > *Replication-aware design selection and validation of 3D-printed conductive
 > TPU bending sensors*.
 
+Fixed submission release:
+[v1.0.0](https://github.com/poojasrinivas1304/Sensors-Morphology/releases/tag/v1.0.0).
+
 ---
 
 ## Overview

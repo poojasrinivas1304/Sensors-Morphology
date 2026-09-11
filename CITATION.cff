@@ -11,6 +11,7 @@ year: 2026
 version: 1.0.0
 date-released: 2026-09-11
 repository-code: "https://github.com/poojasrinivas1304/Sensors-Morphology"
+repository-artifact: "https://github.com/poojasrinivas1304/Sensors-Morphology/releases/tag/v1.0.0"
 license: CC-BY-4.0
 keywords:
   - conductive TPU
